@@ -1,0 +1,17 @@
+# PocketMine Plugin "RandomBox"
+# Developer: Laeng
+
+message-prefix: [Notice]
+
+message-auto-stop-01: "The RandomBox event has ended."
+message-auto-stop-02: "The event will end soon. D-%1"
+
+message-free-offer-01: "You have received a RandomBox" 
+
+message-open-rb-01: "Your inventory is not enough space!"
+message-open-rb-02: "Ooops... This RandomBox is empty...."
+message-open-rb-03: "You received the item. [item: %1 EA]"
+message-open-rb-04: "You received the money. [Money: %1]"
+message-open-rb-05: "You received the item and money"
+
+message-end-rb-01: "The event has ended."

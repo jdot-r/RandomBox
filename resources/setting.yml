@@ -1,0 +1,54 @@
+# PocketMine Plugin "RamdomBox"
+# Developer: Laeng
+language: Korean
+
+#RandomBox Block ---------
+rb-item-value: "246:0"
+rb-effect-offer: true
+rb-effect-timer: 1200
+#-------------------------
+
+#RandomBox PRIZE ---------
+#Set Prize item <| form : "ID:Damage:Amount" |> 
+rb-prize-item:
+ - "319:0:5"
+ - "334:0:2"
+ - "363:0:5"
+ - "365:0:10"
+ - "388:0:1"
+ - "264:0:3"
+ - "265:0:5"
+ - "266:0:5"
+ 
+#Set Prize Money <| form : "Amount" |>
+rb-prize-money:
+ - "10000"
+ - "5000"
+ - "5000"
+ - "100"
+ - "100"
+ - "100"
+#-------------------------
+
+#RandomBox shop ----------
+rb-shop-sell: true
+
+#Set expiry date <| form : YYMMDD |>
+rb-shop-sell-endDay: 161225
+#-------------------------
+
+#Auto plugin disable -----
+rb-auto-stop: false
+
+#Set expiry date <| form : YYMMDD |>
+rb-auto-stop-endDay: 161225
+#-------------------------
+
+#Set-up to free offer ----
+rb-daily-offer: false
+rb-daily-offer-unit: 1
+
+#Set expiry date <| form : YYMMDD |>
+rb-daily-offer-endDay: 161225
+#-------------------------
+

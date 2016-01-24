@@ -1,0 +1,9 @@
+name: RandomBox
+main: Laeng\RandomBox
+version: "1.2"
+author: Laeng
+api:
+ - 1.13.0
+ - 1.14.0
+ - 1.15.0
+ - 2.0.0

@@ -1,0 +1,17 @@
+# PocketMine Plugin "RandomBox"
+# Developer: Laeng
+
+message-prefix: [알림]
+
+message-auto-stop-01: "랜덤박스 이벤트가 종료되었습니다."
+message-auto-stop-02: "랜덤박스 이벤트 종료까지 %1 일 남았습니다!"
+
+message-free-offer-01: "랜덤박스를 받았습니다!" 
+
+message-open-rb-01: "인벤토리 공간이 부족합니다!"
+message-open-rb-02: "랜덤박스 안에는 먼지만 가득했습니다..."
+message-open-rb-03: "랜덤박스에서 아이템을 획득하였습니다. 아이템 : %1 개"
+message-open-rb-04: "랜덤박스에서 돈을 획득하였습니다. 돈 : %1"
+message-open-rb-05: "랜덤박스에서 돈과 아이템을 획득하였습니다."
+
+message-end-rb-01: "랜덤박스 이벤트 기간이 끝났습니다."
