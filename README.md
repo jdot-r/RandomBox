@@ -1,7 +1,7 @@
 # RandomBox : RB
-The RandomBox is give to item, money and effect!
-Now, Open the RandomBox. RB's prize is random from you.
-You can setup to RB event ended day and prizes.
+The RandomBox is give to item, money and effect!<br/>
+Now, Open the RandomBox. RB's prize is random from you.<br/>
+You can setup to RB event ended day and prizes.<br/>
 [ Project Created by Laeng ]
 
 ##TODO
