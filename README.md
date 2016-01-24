@@ -10,11 +10,11 @@ Example: `RandBox::getInstance()->giveRB($player, $unit);`
 ###RB API List
 | Function | Return | Description | Required |
 | ----- | :------: | ----------- | :---------: |
-| giveRB($player, $unit) | | | | Provide RB to `$player->getName()` | |
-| openRB($player) | | | | Open `$player->getName()`'s RB | |
+| giveRB($player, $unit) | | Provide RB to `$player->getName()` | |
+| openRB($player) | | Open `$player->getName()`'s RB | |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| addMoney($player, $amount) |  | | | Add `$player->getName()`'s Money | Money Plugin |
-| takeMoney($player, $amount) | | | | Take `$player->getName()`'s Money | Money Plugin |
+| addMoney($player, $amount) | | Add `$player->getName()`'s Money | Money Plugin |
+| takeMoney($player, $amount) | | Take `$player->getName()`'s Money | Money Plugin |
 >  Money Plugin: [EconomyS](#), [MassiveEconomy](#)
 
 ##License
